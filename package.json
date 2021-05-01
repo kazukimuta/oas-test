@@ -1,0 +1,15 @@
+{
+  "name": "private.swagger-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "swagger": "^0.7.5",
+    "@openapitools/openapi-generator-cli": "^2.2.6"
+  }
+}
